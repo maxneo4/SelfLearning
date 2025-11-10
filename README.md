@@ -19,6 +19,12 @@ View for rendering applications in any device trough a web navigator
 [ ] View next youtube video
 https://www.youtube.com/watch?v=WYN5UMQASDY
 
+#### How to change the style (color example)
+
+```html
+<p style="color: blueviolet;" >
+```
+
 ## MVU Architecture
 ![A graphical representation of MVU](https://thomasbandt.com/upload/mvu.png)
 
