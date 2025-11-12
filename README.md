@@ -16,8 +16,19 @@ View for rendering applications in any device trough a web navigator
 
 ### Html tags
 
-[ ] View next youtube video
-https://www.youtube.com/watch?v=WYN5UMQASDY
+https://www.youtube.com/watch?v=WYN5UMQASDY\
+
+### Html attributes
+
+https://youtu.be/Qm8NrEjAeq4?si=4jT0b5mJygQ8e9Se
+
+### Html Links
+
+https://youtu.be/c3Tg5QCxEbA?si=H2UKvBKIUJyFq0NN
+
+### Html images
+
+https://youtu.be/A1C4RqH1o2I?si=eq-cogBwL_tevK0y
 
 #### How to change the style (color example)
 
