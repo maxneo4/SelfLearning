@@ -36,7 +36,17 @@ https://youtu.be/A1C4RqH1o2I?si=eq-cogBwL_tevK0y
 <p style="color: blueviolet;" >
 ```
 
+
+
+### Html samples
+
+* Title, link and images https://github.com/maxneo4/SelfLearning/blob/main/Samples/LinksImagesAndTitle.html
+* 
+
+
+
 ## MVU Architecture
+
 ![A graphical representation of MVU](https://thomasbandt.com/upload/mvu.png)
 
 ### Model
