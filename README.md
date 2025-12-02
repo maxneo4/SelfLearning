@@ -19,6 +19,8 @@ This repository contains a complete programming course organized as follows:
   - [HTML Images](docs/html/images.md) - Embedding images
   - [Basic Styling](docs/html/styling.md) - Inline CSS styles
   - [JavaScript Basics](docs/html/basicJavaScript.md) - Adding interactivity
+- **[docs/elm/](docs/elm/)** - Architecture and design patterns:
+  - [MVU Architecture](docs/elm/mvu-architecture.md) - Model-View-Update pattern
 
 ### Code Examples
 - **[Samples/](Samples/)** - Working HTML and JavaScript examples
@@ -98,23 +100,17 @@ This course uses GitHub Flavored Markdown (GFM) with support for:
 
 ## MVU Architecture
 
-![A graphical representation of MVU](https://thomasbandt.com/upload/mvu.png)
+Learn about the Model-View-Update architecture pattern in our comprehensive course lesson:
 
-### Model
+**→ [Read the MVU Architecture lesson](docs/elm/mvu-architecture.md)**
 
-The data of the application
-
-### View
-
-How the user see the data in text
-
-### Update
-
-The process for updating the data
-
-### Subscriptions/Events
-
-Possible interaction of the user with the application or events from external source (as a change of data in Data base)
+This lesson covers:
+- The three core components (Model, View, Update)
+- How they work together in the MVU cycle
+- Benefits and use cases
+- Complete example applications
+- Comparison with traditional approaches
+- Subscription/Event handling for complex applications
 
 ## English
 

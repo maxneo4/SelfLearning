@@ -24,6 +24,12 @@ Learn how to create and structure web pages using HTML.
 - [Basic Styling](docs/html/styling) - Adding inline styles to elements
 - [JavaScript Basics](docs/html/basicJavaScript) - Adding interactivity to your pages
 
+### Architecture & Design Patterns
+
+Understand modern application architecture patterns.
+
+- [MVU Architecture](docs/elm/mvu-architecture) - Model-View-Update pattern for scalable applications
+
 ### Additional Resources
 
 - [View Code Examples](Samples/) - Browse working examples
