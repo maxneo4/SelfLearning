@@ -17,12 +17,12 @@ This course covers the essential building blocks of web development, starting fr
 
 Learn how to create and structure web pages using HTML.
 
-- [HTML Basics](docs/html/basics.md) - HTML tags and document structure
-- [HTML Attributes](docs/html/attributes.md) - Adding properties to HTML elements
-- [HTML Links](docs/html/links.md) - Creating navigation between pages
-- [HTML Images](docs/html/images.md) - Embedding images in web pages
-- [Basic Styling](docs/html/styling.md) - Adding inline styles to elements
-- [JavaScript Basics](docs/html/basicJavaScript.md) - Adding interactivity to your pages
+- [HTML Basics](docs/html/basics) - HTML tags and document structure
+- [HTML Attributes](docs/html/attributes) - Adding properties to HTML elements
+- [HTML Links](docs/html/links) - Creating navigation between pages
+- [HTML Images](docs/html/images) - Embedding images in web pages
+- [Basic Styling](docs/html/styling) - Adding inline styles to elements
+- [JavaScript Basics](docs/html/basicJavaScript) - Adding interactivity to your pages
 
 ### Additional Resources
 
@@ -31,7 +31,7 @@ Learn how to create and structure web pages using HTML.
 
 ## Getting Started
 
-1. Start with [HTML Basics](docs/html/basics.md) to learn the fundamentals
+1. Start with [HTML Basics](docs/html/basics) to learn the fundamentals
 2. Progress through each topic in order
 3. Try the examples and experiment with the code
 4. Practice by creating your own web pages
@@ -52,4 +52,4 @@ Learn how to create and structure web pages using HTML.
 
 ---
 
-**Ready to start?** Begin with [HTML Basics](docs/html/basics.md) →
+**Ready to start?** Begin with [HTML Basics](docs/html/basics) →

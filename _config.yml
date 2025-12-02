@@ -1,10 +1,12 @@
 # GitHub Pages Configuration
 title: SelfLearning Programming Course
 description: A structured programming course covering HTML, JavaScript, and more
-baseurl: ""
-url: ""
 
-# Theme
+# Critical: baseurl must be set for GitHub Pages repository
+baseurl: "/SelfLearning"
+url: "https://maxneo4.github.io"
+
+# Theme - GitHub Pages built-in theme
 theme: jekyll-theme-cayman
 
 # Markdown processor
@@ -12,6 +14,10 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  hard_wrap: false
+
+# URL handling - converts .md files to clean URLs
+permalink: /:path/
 
 # Mermaid support (via GitHub Pages built-in support)
 mermaid:
@@ -20,11 +26,11 @@ mermaid:
 # Navigation
 navigation:
   - title: Home
-    url: /
+    url: /SelfLearning/
   - title: HTML Basics
-    url: /docs/html/
+    url: /SelfLearning/docs/html/
   - title: Examples
-    url: /Samples/
+    url: /SelfLearning/Samples/
 
 # Exclude files from processing
 exclude:
@@ -34,3 +40,9 @@ exclude:
   - .qwen/
   - openspec/
   - README.md
+
+# Plugins for GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap

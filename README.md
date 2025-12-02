@@ -11,14 +11,14 @@ Visit the course website to access all lessons, examples, and resources: **[Self
 This repository contains a complete programming course organized as follows:
 
 ### Course Content
-- **[index.md](index.md)** - Main course homepage with table of contents
-- **[docs/html/](docs/html/)** - HTML and JavaScript lessons
-  - HTML Basics - Tags and structure
-  - HTML Attributes - Element properties
-  - HTML Links - Navigation and linking
-  - HTML Images - Embedding images
-  - Basic Styling - Inline CSS styles
-  - JavaScript Basics - Adding interactivity
+- **[Start Here](index.md)** - Main course homepage with table of contents
+- **[docs/html/](docs/html/)** - HTML and JavaScript lessons:
+  - [HTML Basics](docs/html/basics.md) - Tags and structure
+  - [HTML Attributes](docs/html/attributes.md) - Element properties
+  - [HTML Links](docs/html/links.md) - Navigation and linking
+  - [HTML Images](docs/html/images.md) - Embedding images
+  - [Basic Styling](docs/html/styling.md) - Inline CSS styles
+  - [JavaScript Basics](docs/html/basicJavaScript.md) - Adding interactivity
 
 ### Code Examples
 - **[Samples/](Samples/)** - Working HTML and JavaScript examples
