@@ -5,7 +5,7 @@ title: Basic HTML Styling
 
 # Basic HTML Styling
 
-[← Back to Course Home](../../index.md)
+[← Back to Course Home](../../)
 
 ## Introduction to Inline Styling
 
@@ -119,8 +119,8 @@ Style a paragraph with:
 
 ## Next Steps
 
-Ready to add interactivity? Learn about [JavaScript Basics](basicJavaScript.md) →
+Ready to add interactivity? Learn about [JavaScript Basics](basicJavaScript) →
 
 ---
 
-**Navigation:** [Home](../../index.md) | [Previous: Images](images.md) | [Next: JavaScript Basics](basicJavaScript.md)
+**Navigation:** [Home](../../) | [Previous: Images](images) | [Next: JavaScript Basics](basicJavaScript)

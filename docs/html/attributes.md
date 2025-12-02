@@ -5,7 +5,7 @@ title: HTML Attributes
 
 # HTML Attributes
 
-[← Back to Course Home](../../index.md)
+[← Back to Course Home](../../)
 
 ## What are HTML Attributes?
 
@@ -87,8 +87,8 @@ Create an HTML element with:
 
 ## Next Steps
 
-Learn about [HTML Links](links.md) →
+Learn about [HTML Links](links) →
 
 ---
 
-**Navigation:** [Home](../../index.md) | [Previous: Basics](basics.md) | [Next: Links](links.md)
+**Navigation:** [Home](../../) | [Previous: Basics](basics) | [Next: Links](links)

@@ -5,7 +5,7 @@ title: HTML Images
 
 # HTML Images
 
-[← Back to Course Home](../../index.md)
+[← Back to Course Home](../../)
 
 ## Adding Images to Web Pages
 
@@ -98,8 +98,8 @@ Add to your HTML file:
 
 ## Next Steps
 
-Learn about [Basic Styling](styling.md) →
+Learn about [Basic Styling](styling) →
 
 ---
 
-**Navigation:** [Home](../../index.md) | [Previous: Links](links.md) | [Next: Styling](styling.md)
+**Navigation:** [Home](../../) | [Previous: Links](links) | [Next: Styling](styling)

@@ -5,7 +5,7 @@ title: HTML Links
 
 # HTML Links
 
-[← Back to Course Home](../../index.md)
+[← Back to Course Home](../../)
 
 ## What are Links?
 
@@ -102,8 +102,8 @@ Create:
 
 ## Next Steps
 
-Learn about [HTML Images](images.md) →
+Learn about [HTML Images](images) →
 
 ---
 
-**Navigation:** [Home](../../index.md) | [Previous: Attributes](attributes.md) | [Next: Images](images.md)
+**Navigation:** [Home](../../) | [Previous: Attributes](attributes) | [Next: Images](images)

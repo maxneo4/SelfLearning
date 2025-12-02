@@ -60,10 +60,10 @@ Samples/
 
 ## Related Course Lessons
 
-- [HTML Basics](../docs/html/basics.md)
-- [HTML Links](../docs/html/links.md)
-- [HTML Images](../docs/html/images.md)
-- [JavaScript Basics](../docs/html/basicJavaScript.md)
+- [HTML Basics](../docs/html/basics)
+- [HTML Links](../docs/html/links)
+- [HTML Images](../docs/html/images)
+- [JavaScript Basics](../docs/html/basicJavaScript)
 
 ## Tips for Learning
 
@@ -75,4 +75,4 @@ Samples/
 
 ---
 
-[← Back to Course Home](../index.md)
+[← Back to Course Home](../)

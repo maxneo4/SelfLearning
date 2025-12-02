@@ -5,7 +5,7 @@ title: HTML Basics
 
 # HTML Basics
 
-[← Back to Course Home](../../index.md)
+[← Back to Course Home](../../)
 
 ## What is HTML?
 
@@ -74,6 +74,8 @@ Add notes in your code that won't be displayed:
 
 Check out this [working example](../../Samples/LinksImagesAndTitle.html) that demonstrates basic HTML structure with titles and content.
 
+You can also explore more examples in the [Samples directory](../../Samples/).
+
 ## Video Tutorial
 
 Watch this comprehensive tutorial on HTML tags:
@@ -89,8 +91,8 @@ Try creating your own HTML file with:
 
 ## Next Steps
 
-Continue learning about [HTML Attributes](attributes.md) →
+Continue learning about [HTML Attributes](attributes) →
 
 ---
 
-**Navigation:** [Home](../../index.md) | [Next: Attributes](attributes.md)
+**Navigation:** [Home](../../) | [Next: Attributes](attributes)

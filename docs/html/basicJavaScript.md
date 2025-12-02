@@ -5,7 +5,7 @@ title: JavaScript Basics
 
 # JavaScript Basics - Adding Interactivity
 
-[← Back to Course Home](../../index.md)
+[← Back to Course Home](../../)
 
 ## What is JavaScript?
 
@@ -254,4 +254,4 @@ You now know the basics of HTML and JavaScript! Continue practicing and explorin
 
 ---
 
-**Navigation:** [Home](../../index.md) | [Previous: Styling](styling.md)
+**Navigation:** [Home](../../) | [Previous: Styling](styling)
