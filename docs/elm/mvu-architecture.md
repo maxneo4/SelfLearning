@@ -92,18 +92,14 @@ update msg model =
 
 ### MVU Flow Diagram
 
-```mermaid
-graph LR
-    A["Model<br/>(State)"]
-    B["View<br/>(HTML)"]
-    C["Msg<br/>(Message)"]
-    D["Update<br/>(Function)"]
+![MVU Architecture Flow Diagram](../../assets/images/elmModel.png)
 
-    A -->|renders| B
-    B -->|user action| C
-    C -->|processes| D
-    D -->|updates| A
-```
+*The diagram shows how Model, View, Update, and Messages work together in a cycle:*
+- Model renders into View
+- View displays to user
+- User interactions trigger Messages
+- Update processes Messages and updates Model
+- Cycle repeats
 
 ### The Cycle
 
