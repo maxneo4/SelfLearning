@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Button Click Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #message {
+            padding: 15px;
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Button Click Example</h1>
+    <p>Click the buttons below to see JavaScript in action!</p>
+
+    <button id="changeTextButton">Change Text</button>
+    <button id="changeColorButton">Change Color</button>
+    <button id="resetButton">Reset</button>
+
+    <p id="message">This text will change when you click the buttons.</p>
+
+    <script>
+        // Get the message element
+        const message = document.getElementById('message');
+
+        // Change text button
+        document.getElementById('changeTextButton').addEventListener('click', function() {
+            message.textContent = 'You clicked the "Change Text" button!';
+        });
+
+        // Change color button
+        document.getElementById('changeColorButton').addEventListener('click', function() {
+            message.style.color = 'blue';
+            message.style.fontWeight = 'bold';
+        });
+
+        // Reset button
+        document.getElementById('resetButton').addEventListener('click', function() {
+            message.textContent = 'This text will change when you click the buttons.';
+            message.style.color = 'black';
+            message.style.fontWeight = 'normal';
+        });
+    </script>
+</body>
+</html>

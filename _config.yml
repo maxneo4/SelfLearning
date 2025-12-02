@@ -1,0 +1,36 @@
+# GitHub Pages Configuration
+title: SelfLearning Programming Course
+description: A structured programming course covering HTML, JavaScript, and more
+baseurl: ""
+url: ""
+
+# Theme
+theme: jekyll-theme-cayman
+
+# Markdown processor
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Mermaid support (via GitHub Pages built-in support)
+mermaid:
+  enable: true
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: HTML Basics
+    url: /docs/html/
+  - title: Examples
+    url: /Samples/
+
+# Exclude files from processing
+exclude:
+  - .git/
+  - .github/
+  - .claude/
+  - .qwen/
+  - openspec/
+  - README.md

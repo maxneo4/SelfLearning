@@ -1,47 +1,98 @@
 # SelfLearning
 
-## Git
-Repository for sharing and saving code
+A structured programming course covering web development fundamentals.
 
-### Github
+## 📚 [Start the Course](https://maxneo4.github.io/SelfLearning/)
 
-[ ] Create account on github
+Visit the course website to access all lessons, examples, and resources: **[SelfLearning Course](https://maxneo4.github.io/SelfLearning/)**
 
-## Visual Studio Code (IDE)
+## Course Structure
 
-[] Install Visual Studio Code
+This repository contains a complete programming course organized as follows:
 
-## HTML
-View for rendering applications in any device trough a web navigator 
+### Course Content
+- **[index.md](index.md)** - Main course homepage with table of contents
+- **[docs/html/](docs/html/)** - HTML and JavaScript lessons
+  - HTML Basics - Tags and structure
+  - HTML Attributes - Element properties
+  - HTML Links - Navigation and linking
+  - HTML Images - Embedding images
+  - Basic Styling - Inline CSS styles
+  - JavaScript Basics - Adding interactivity
 
-### Html tags
+### Code Examples
+- **[Samples/](Samples/)** - Working HTML and JavaScript examples
+  - Basic HTML structure examples
+  - Button click interactions
+  - Form handling
+  - DOM manipulation
 
-https://www.youtube.com/watch?v=WYN5UMQASDY\
+## Getting Started
 
-### Html attributes
+### Prerequisites
+- [ ] Create account on GitHub
+- [ ] Install Visual Studio Code (IDE)
 
-https://youtu.be/Qm8NrEjAeq4?si=4jT0b5mJygQ8e9Se
+### Learning Path
+1. Visit the [course homepage](https://maxneo4.github.io/SelfLearning/)
+2. Start with HTML Basics
+3. Progress through each topic sequentially
+4. Try the code examples
+5. Practice by creating your own projects
 
-### Html Links
+## Contributing
 
-https://youtu.be/c3Tg5QCxEbA?si=H2UKvBKIUJyFq0NN
+### Adding New Content
 
-### Html images
+When adding new course content, follow these conventions:
 
-https://youtu.be/A1C4RqH1o2I?si=eq-cogBwL_tevK0y
+**File Organization:**
+- Place lesson pages in `docs/[topic]/`
+- Place code examples in `Samples/`
+- Use lowercase with hyphens for file names
+- Use `.md` extension for lesson content
 
-#### How to change the style (color example)
+**Lesson Page Structure:**
+- Include YAML frontmatter with layout and title
+- Add navigation links (back to home, previous/next lessons)
+- Include code examples and practice exercises
+- Link to relevant sample files
 
-```html
-<p style="color: blueviolet;" >
-```
+**Example Files:**
+- Use proper HTML5 document structure
+- Include comments explaining key concepts
+- Add inline styles for better presentation
+- Reference related lessons in comments
 
+### Markdown Features
 
+This course uses GitHub Flavored Markdown (GFM) with support for:
+- Code blocks with syntax highlighting
+- Mermaid diagrams for visualizations
+- Tables and task lists
+- Relative links between pages
 
-### Html samples
+## Quick Reference
 
-* Title, link and images https://github.com/maxneo4/SelfLearning/blob/main/Samples/LinksImagesAndTitle.html
-* 
+### Video Tutorials
+- [HTML Tags](https://www.youtube.com/watch?v=WYN5UMQASDY)
+- [HTML Attributes](https://youtu.be/Qm8NrEjAeq4?si=4jT0b5mJygQ8e9Se)
+- [HTML Links](https://youtu.be/c3Tg5QCxEbA?si=H2UKvBKIUJyFq0NN)
+- [HTML Images](https://youtu.be/A1C4RqH1o2I?si=eq-cogBwL_tevK0y)
+
+### Code Samples
+- [Title, Links and Images](Samples/LinksImagesAndTitle.html)
+- [Button Click Interactions](Samples/button-click.html)
+- [Form Handling](Samples/form-handling.html)
+- [DOM Manipulation](Samples/dom-manipulation.html)
+
+## Technology Stack
+
+- **GitHub Pages** - Hosting and deployment
+- **Jekyll** - Static site generation (Cayman theme)
+- **Markdown** - Content authoring
+- **Mermaid** - Diagram generation
+- **HTML/CSS/JavaScript** - Core web technologies
 
 
 
