@@ -94,14 +94,15 @@ update msg model =
 
 ```mermaid
 graph LR
-    A["Model<br/>(State)"] -->|renders| B["View<br/>(HTML)"]
-    B -->|user action| C["Msg<br/>(Message)"]
-    C -->|processes| D["Update<br/>(Function)"]
+    A["Model<br/>(State)"]
+    B["View<br/>(HTML)"]
+    C["Msg<br/>(Message)"]
+    D["Update<br/>(Function)"]
+
+    A -->|renders| B
+    B -->|user action| C
+    C -->|processes| D
     D -->|updates| A
-    style A fill:#e1f5ff
-    style B fill:#f3e5f5
-    style C fill:#fff3e0
-    style D fill:#e8f5e9
 ```
 
 ### The Cycle
