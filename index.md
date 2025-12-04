@@ -53,7 +53,12 @@ Understand modern application architecture patterns.
 
 ## Other Learning Resources
 
+## Learn programming funny
+
+* https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+
 ### English Language Learning
+
 - [ReadLang](https://readlang.com/en/dashboard) - Recommended for learning English
 
 ---

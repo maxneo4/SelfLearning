@@ -54,16 +54,7 @@ JavaScript can interact with HTML elements through the DOM. The DOM represents t
 
 Here's how the DOM represents an HTML document:
 
-```mermaid
-graph TD
-    A[Document] --> B[html]
-    B --> C[head]
-    B --> D[body]
-    C --> E[title]
-    D --> F[h1]
-    D --> G[p]
-    D --> H[script]
-```
+![DOM Diagram](../../assets/images/DomModel.png)
 
 This tree structure shows how HTML elements are nested and related to each other.
 
