@@ -42,8 +42,6 @@ Understand modern application architecture patterns.
 3. Try the examples and experiment with the code
 4. Practice by creating your own web pages
 
-**Note:** Some lessons include Mermaid diagrams for visualizing concepts. These diagrams are supported by GitHub Pages and will render as interactive graphics.
-
 ## Video Resources
 
 - [HTML Tags Tutorial](https://www.youtube.com/watch?v=WYN5UMQASDY)
